@@ -1,4 +1,3 @@
-# PKG_HSL_TO_RGB
 # PL/SQL Package for CKEditor 5 CLOB Conversion
 
 ## Overview
